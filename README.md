@@ -1,5 +1,5 @@
 # one-python
-We don't need a lot of libraries. We just need the best ones.
+We don't need a lot of libraries. We just need best ones.
 
 ### Environment
 * [virtualenv](https://pypi.python.org/pypi/virtualenv) - A tool to create isolated Python environments.
