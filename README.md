@@ -1,5 +1,5 @@
 # one-python
-We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We just need best ones.
+We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We just need the best ones.
 
 ### Interactive Interpreter
 * [IPython](https://github.com/ipython/ipython) - A rich toolkit to help you make the most out of using Python interactively.
