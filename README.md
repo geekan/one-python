@@ -12,7 +12,7 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 * [jieba](https://github.com/fxsjy/jieba) - Chinese Words Segmentation Utilities.
 
 ### Concurrency and Networking
-* [gevent](http://www.gevent.org/) - A coroutine-based Python networking library that uses
+* [gevent](http://www.gevent.org/) - A coroutine-based Python networking library that uses [greenlet](https://github.com/python-greenlet/greenlet).
 
 ### Web Crawling
 * [Scrapy](http://scrapy.org/) - A fast high-level screen scraping and web crawling framework.
