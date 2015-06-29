@@ -14,7 +14,7 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 #### IDE
 * [PyCharm](https://www.jetbrains.com/pycharm/) - Commercial Python IDE based on the IntelliJ platform by JetBrains. Has free community edition available.
 
-#### Download Tool for Netdisk/Video/Music/Image/Ed2k etc.
+#### Chinese Download Tool for netdisk/video/music/image/ed2k etc.
 * [iScript](https://github.com/PeterDing/iScript) - 关于 虾米 xiami.com, 百度网盘 pan.baidu.com, 115网盘 115.com, 网易音乐 music.163.com, 百度音乐 music.baidu.com, 360网盘/云盘 yunpan.cn, 视频解析 flvxz.com, bt torrent ↔ magnet, ed2k 搜索, tumblr 图片下载, unzip
 
 -----
