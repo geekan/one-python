@@ -8,6 +8,9 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 * [virtualenv](https://pypi.python.org/pypi/virtualenv) - A tool to create isolated Python environments.
 * [virtualenvwrapper](https://pypi.python.org/pypi/virtualenvwrapper) - A set of extensions to virtualenv.
 
+### Optical Character Recognition(OCR)
+* [python-tesseract](https://code.google.com/p/python-tesseract) - A wrapper class for [Google Tesseract OCR](https://code.google.com/p/tesseract-ocr/).
+
 ### Chinese Word Segmentation
 * [jieba](https://github.com/fxsjy/jieba) - Chinese Words Segmentation Utilities.
 
