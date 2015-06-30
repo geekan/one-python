@@ -5,7 +5,7 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 ## Libraries
 
 #### Optical Character Recognition(OCR)
-* [python-tesseract](https://code.google.com/p/python-tesseract) - A wrapper class for [Google Tesseract OCR](https://code.google.com/p/tesseract-ocr/).
+* [pytesseract](https://github.com/madmaze/pytesseract) - A wrapper for Google Tesseract OCR.
 
 #### Chinese Word Segmentation
 * [jieba](https://github.com/fxsjy/jieba) - Chinese Words Segmentation Utilities.
