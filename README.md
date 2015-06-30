@@ -2,7 +2,7 @@
 We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We just need the best ones.
 
 -----
-## Best Libraries
+## Libraries
 
 #### Optical Character Recognition(OCR)
 * [python-tesseract](https://code.google.com/p/python-tesseract) - A wrapper class for [Google Tesseract OCR](https://code.google.com/p/tesseract-ocr/).
@@ -21,7 +21,7 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 
 
 -----
-## Best Utilities
+## Utilities
 
 #### Interactive Interpreter
 * [IPython](https://github.com/ipython/ipython) - A rich toolkit to help you make the most out of using Python interactively.
