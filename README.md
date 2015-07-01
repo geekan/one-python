@@ -21,6 +21,12 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 
 
 -----
+## Frameworks
+
+* [Django](https://www.djangoproject.com/) - The most popular full featured web framework in Python.
+    * [awesome-django](https://github.com/rosarior/awesome-django)
+
+-----
 ## Utilities
 
 #### Interactive Interpreter
