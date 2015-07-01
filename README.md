@@ -24,7 +24,7 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 ## Frameworks
 
 * [Django](https://www.djangoproject.com/) - The most popular full featured web framework in Python.
-    * [awesome-django](https://github.com/rosarior/awesome-django)
+    * [djangopackages](https://www.djangopackages.com/) - Excellent 3rd party django package collections.
 
 -----
 ## Utilities
@@ -34,7 +34,7 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 
 #### Environment
 * [virtualenv](https://pypi.python.org/pypi/virtualenv) - A tool to create isolated Python environments.
-* [virtualenvwrapper](https://pypi.python.org/pypi/virtualenvwrapper) - A set of extensions to virtualenv.
+    * [virtualenvwrapper](https://pypi.python.org/pypi/virtualenvwrapper) - A set of extensions to virtualenv.
 
 #### IDE
 * [PyCharm](https://www.jetbrains.com/pycharm/) - Commercial Python IDE based on the IntelliJ platform by JetBrains. Has free community edition available.
