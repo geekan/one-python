@@ -7,6 +7,9 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 #### General Machine Learning
 * [scikit-learn](http://scikit-learn.org/) - Simple and efficient tools for data mining and data analysis.
 
+#### Machine Learning (CV)
+* [caffe](http://caffe.berkeleyvision.org/) - deep learning framework made with expression, speed, and modularity in mind.
+
 #### Optical Character Recognition(OCR)
 * [pytesseract](https://github.com/madmaze/pytesseract) - A wrapper for Google Tesseract OCR.
 
