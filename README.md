@@ -19,6 +19,9 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 #### Concurrency and Networking
 * [gevent](http://www.gevent.org/) - A coroutine-based Python networking library that uses [greenlet](https://github.com/python-greenlet/greenlet).
 
+#### HTTP
+* [requests](https://github.com/kennethreitz/requests) - Python http requests for humans.
+
 #### Web Crawling
 * [Scrapy](http://scrapy.org/) - A fast high-level screen scraping and web crawling framework.
 
@@ -47,5 +50,8 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 #### IDE
 * [PyCharm](https://www.jetbrains.com/pycharm/) - Commercial Python IDE based on the IntelliJ platform by JetBrains. Free community edition available.
 
-#### Downloader for Chinese Sites
+#### Http Client
+* [httpie](https://github.com/jkbrzt/httpie) - A CLI, cURL-like tool for humans
+
+#### Resource Downloader for Chinese Sites
 * [iScript](https://github.com/PeterDing/iScript) - Downloader for xiami.com, pan.baidu.com, 115.com, music.163.com, music.baidu.com,  yunpan.cn, flvxz.com, bt torrent ↔ magnet, ed2k search, tumblr, unzip
