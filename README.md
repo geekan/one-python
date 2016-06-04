@@ -8,7 +8,7 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 * [scikit-learn](http://scikit-learn.org/) - Simple and efficient tools for data mining and data analysis.
 
 #### Machine Learning (CV)
-* [caffe](http://caffe.berkeleyvision.org/) - deep learning framework made with expression, speed, and modularity in mind.
+* [caffe](http://caffe.berkeleyvision.org/) - Deep learning framework made with expression, speed, and modularity in mind.
 
 #### Optical Character Recognition(OCR)
 * [pytesseract](https://github.com/madmaze/pytesseract) - A wrapper for Google Tesseract OCR.
@@ -45,7 +45,7 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
     * [virtualenvwrapper](https://pypi.python.org/pypi/virtualenvwrapper) - A set of extensions to virtualenv.
 
 #### IDE
-* [PyCharm](https://www.jetbrains.com/pycharm/) - Commercial Python IDE based on the IntelliJ platform by JetBrains. Has free community edition available.
+* [PyCharm](https://www.jetbrains.com/pycharm/) - Commercial Python IDE based on the IntelliJ platform by JetBrains. Free community edition available.
 
-#### Chinese Download Tool.
-* [iScript](https://github.com/PeterDing/iScript) - about xiami.com, pan.baidu.com, 115.com, music.163.com, music.baidu.com,  yunpan.cn, flvxz.com, bt torrent ↔ magnet, ed2k search, tumblr, unzip
+#### Downloader for Chinese Sites
+* [iScript](https://github.com/PeterDing/iScript) - Downloader for xiami.com, pan.baidu.com, 115.com, music.163.com, music.baidu.com,  yunpan.cn, flvxz.com, bt torrent ↔ magnet, ed2k search, tumblr, unzip
