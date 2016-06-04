@@ -19,7 +19,7 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 #### Concurrency and Networking
 * [gevent](http://www.gevent.org/) - A coroutine-based Python networking library that uses [greenlet](https://github.com/python-greenlet/greenlet).
 
-#### HTTP
+#### HTTP Request
 * [requests](https://github.com/kennethreitz/requests) - Python HTTP requests for humans.
 
 #### Web Crawling
