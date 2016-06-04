@@ -10,7 +10,7 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 #### Machine Learning (CV)
 * [caffe](http://caffe.berkeleyvision.org/) - Deep learning framework made with expression, speed, and modularity in mind.
 
-#### Optical Character Recognition(OCR)
+#### Optical Character Recognition (OCR)
 * [pytesseract](https://github.com/madmaze/pytesseract) - A wrapper for Google Tesseract OCR.
 
 #### Chinese Word Segmentation
