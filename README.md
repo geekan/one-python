@@ -9,6 +9,7 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 
 #### Machine Learning (CV)
 * [caffe](http://caffe.berkeleyvision.org/) - Deep learning framework made with expression, speed, and modularity in mind.
+* [TensorFlow](https://www.tensorflow.org/) - Low-level (configurations over conventions) library for building deep learning data flow graphs.
 
 #### Optical Character Recognition (OCR)
 * [pytesseract](https://github.com/madmaze/pytesseract) - A wrapper for Google Tesseract OCR.
