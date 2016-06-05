@@ -34,6 +34,9 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 #### Natural Language
 * [nltk](http://www.nltk.org/) - A suite of libraries and programs for symbolic and statistical natural language processing.
 
+#### Markdown
+* [mistune](https://github.com/lepture/mistune) - The fastest markdown parser in pure Python with renderer features, inspired by marked.
+
 -----
 ## Frameworks
 
