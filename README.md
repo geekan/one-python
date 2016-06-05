@@ -31,6 +31,9 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 #### Scientific Computing
 * [scipy](https://github.com/scipy/scipy) - An open-source software for mathematics, science, and engineering. statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more. 
 
+#### Data Analysis
+* [pandas](http://pandas.pydata.org/) - A software library for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series.
+
 -----
 ## Frameworks
 
