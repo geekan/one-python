@@ -48,6 +48,7 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 
 #### Interactive Interpreter
 * [IPython](https://github.com/ipython/ipython) - A rich toolkit to help you make the most out of using Python interactively.
+* [jupyter notebook] (http://jupyter.org/) - A web application that allows you to create and share documents that contain live code.
 
 #### Environment
 * [virtualenv](https://pypi.python.org/pypi/virtualenv) - A tool to create isolated Python environments.
