@@ -45,6 +45,7 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 
 * [Django](https://www.djangoproject.com/) - The most popular full featured web framework in Python.
     * [djangopackages](https://www.djangopackages.com/) - Excellent 3rd party django package collections.
+* [Flask](http://flask.pocoo.org/) - A microframework for Python. 
 
 -----
 ## Utilities
