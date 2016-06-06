@@ -6,9 +6,11 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 
 #### General Machine Learning
 * [scikit-learn](http://scikit-learn.org/) - Simple and efficient tools for data mining and data analysis.
+
+#### Machine Learning > Deep Learning
 * [TensorFlow](https://www.tensorflow.org/) - Low-level (configurations over conventions) library for building deep learning data flow graphs.
 
-#### Machine Learning (CV)
+#### Machine Learning > Deep Learning + Computer Vision
 * [caffe](http://caffe.berkeleyvision.org/) - Deep learning framework made with expression, speed, and modularity in mind.
 
 #### Optical Character Recognition (OCR)
