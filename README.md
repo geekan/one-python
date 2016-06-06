@@ -13,6 +13,9 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 #### Optical Character Recognition (OCR)
 * [pytesseract](https://github.com/madmaze/pytesseract) - A wrapper for Google Tesseract OCR.
 
+### Image processing 
+* [scikit-image](http://scikit-image.org/) - A collection of algorithms for image processing
+
 #### Chinese Word Segmentation
 * [jieba](https://github.com/fxsjy/jieba) - Chinese Words Segmentation Utilities.
 
