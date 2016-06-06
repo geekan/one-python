@@ -37,6 +37,9 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 #### Markdown
 * [mistune](https://github.com/lepture/mistune) - The fastest markdown parser in pure Python with renderer features, inspired by marked.
 
+#### Data Analysis
+* [pandas](http://pandas.pydata.org/) - A software library for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series.
+
 -----
 ## Frameworks
 
