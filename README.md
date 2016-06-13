@@ -16,6 +16,9 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 #### Optical Character Recognition (OCR)
 * [pytesseract](https://github.com/madmaze/pytesseract) - A wrapper for Google Tesseract OCR.
 
+### Image processing 
+* [scikit-image](http://scikit-image.org/) - A collection of algorithms for image processing
+
 #### Chinese Word Segmentation
 * [jieba](https://github.com/fxsjy/jieba) - Chinese Words Segmentation Utilities.
 
@@ -48,12 +51,15 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 
 * [Django](https://www.djangoproject.com/) - The most popular full featured web framework in Python.
     * [djangopackages](https://www.djangopackages.com/) - Excellent 3rd party django package collections.
+* [Flask](http://flask.pocoo.org/) - A microframework for Python. 
 
 -----
 ## Utilities
 
 #### Interactive Interpreter
 * [IPython](https://github.com/ipython/ipython) - A rich toolkit to help you make the most out of using Python interactively.
+* [jupyter notebook] (http://jupyter.org/) - A web application that allows you to create and share documents that contain live code.
+* [bpython] (http://www.bpython-interpreter.org) - A fancy interface to the Python interpreter for Linux, BSD, OS X and Windows.
 
 #### Environment
 * [virtualenv](https://pypi.python.org/pypi/virtualenv) - A tool to create isolated Python environments.
