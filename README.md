@@ -61,12 +61,3 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 
 #### IDE
 * [PyCharm](https://www.jetbrains.com/pycharm/) - Commercial Python IDE based on the IntelliJ platform by JetBrains. Free community edition available.
-
-#### HTTP Client
-* [httpie](https://github.com/jkbrzt/httpie) - A CLI, cURL-like tool for humans
-
-#### Resource Downloader for Chinese Sites
-* [iScript](https://github.com/PeterDing/iScript) - Downloader for xiami.com, pan.baidu.com, 115.com, music.163.com, music.baidu.com,  yunpan.cn, flvxz.com, bt torrent ↔ magnet, ed2k search, tumblr, unzip
-
-#### Media contents downloader
-* [You-Get](https://github.com/soimort/you-get) - You-Get is a tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it.
