@@ -1,5 +1,5 @@
 # one-python
-We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We just need the best ones.
+We don't need [a lots of libraries](https://github.com/vinta/awesome-python). We just need the best one.
 
 -----
 ## Libraries
