@@ -43,6 +43,9 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 #### Data Analysis
 * [pandas](http://pandas.pydata.org/) - A software library for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series.
 
+#### Machine Learning > computing multidimensional arrays
+* [Theano](http://www.deeplearning.net/software/theano/)-Theano is a computational framework machine learning library in Python for computing multidimensional arrays.
+
 -----
 ## Frameworks
 
