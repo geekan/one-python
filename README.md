@@ -1,4 +1,4 @@
-# one-python
+# one-python-for all
 We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We just need the best ones.
 
 -----
