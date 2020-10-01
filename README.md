@@ -32,7 +32,7 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 * [newspaper](https://github.com/codelucas/newspaper) - News extraction, article extraction and content curation in Python.
 
 #### Scientific Computing
-* [scipy](https://github.com/scipy/scipy) - An open-source software for mathematics, science, and engineering. statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
+* [scipy](https://github.com/scipy/scipy) - An open-source software for mathematics, science, engineering, statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
 
 #### Natural Language
 * [nltk](http://www.nltk.org/) - A suite of libraries and programs for symbolic and statistical natural language processing.
