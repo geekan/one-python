@@ -16,8 +16,8 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 #### Optical Character Recognition (OCR)
 * [pytesseract](https://github.com/madmaze/pytesseract) - A wrapper for Google Tesseract OCR.
 
-#### Chinese Word Segmentation
-* [jieba](https://github.com/fxsjy/jieba) - Chinese Words Segmentation Utilities.
+#### Generate CLIs
+* [fire](https://github.com/google/python-fire) - Fire is a powerful library that can derive CLIs from python objects. It is used by Google as well to create a command line and different experiment management tools as well.
 
 #### Concurrency and Networking
 * [gevent](http://www.gevent.org/) - A coroutine-based Python networking library that uses [greenlet](https://github.com/python-greenlet/greenlet).
