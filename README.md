@@ -61,3 +61,6 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 
 #### IDE
 * [PyCharm](https://www.jetbrains.com/pycharm/) - Commercial Python IDE based on the IntelliJ platform by JetBrains. Free community edition available.
+
+#### File reading
+The csv module’s reader and writer objects read and write sequences. Programmers can also read and write data in dictionary form using the DictReader and DictWriter classes
