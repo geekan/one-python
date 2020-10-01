@@ -1,4 +1,4 @@
-# one-python
+# Just-python
 We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We just need the best ones.
 
 -----
@@ -60,4 +60,4 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
     * [virtualenvwrapper](https://pypi.python.org/pypi/virtualenvwrapper) - A set of extensions to virtualenv.
 
 #### IDE
-* [PyCharm](https://www.jetbrains.com/pycharm/) - Commercial Python IDE based on the IntelliJ platform by JetBrains. Free community edition available.
+* [PyCharm](https://www.jetbrains.com/pycharm/) - Commercial Python IDE based on the IntelliJ platform by JetBrains. Free community edition is available.
