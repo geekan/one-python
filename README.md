@@ -27,6 +27,7 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 
 #### Web Crawling
 * [Scrapy](http://scrapy.org/) - A fast high-level screen scraping and web crawling framework.
+* [beautifulsoup4] (https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Easy to scrap and parsing information from websites and mainly it sits on html and xml.
 
 #### Web Content Extracting
 * [newspaper](https://github.com/codelucas/newspaper) - News extraction, article extraction and content curation in Python.
