@@ -62,4 +62,4 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 
 #### IDE
 * [PyCharm](https://www.jetbrains.com/pycharm/) - Commercial Python IDE based on the IntelliJ platform by JetBrains. Free community edition available.
-These files and scripts are not intended for malicious purposes.
+* These files and scripts are not intended for malicious purposes.
