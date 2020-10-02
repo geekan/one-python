@@ -61,3 +61,6 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 
 #### IDE
 * [PyCharm](https://www.jetbrains.com/pycharm/) - Commercial Python IDE based on the IntelliJ platform by JetBrains. Free community edition available.
+
+#### Anaconda-IDE
+* [anaconda](https://www.anaconda.com/products/individual) - Python & R Programing IDE includes several Data Science Tools. Free Community Edition Available.
