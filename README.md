@@ -60,4 +60,4 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
     * [virtualenvwrapper](https://pypi.python.org/pypi/virtualenvwrapper) - A set of extensions to virtualenv.
 
 #### IDE
-* [PyCharm](https://www.jetbrains.com/pycharm/) - Commercial Python IDE based on the IntelliJ platform by JetBrains. Free community edition available.
+* [PyCharm](https://www.jetbrains.com/pycharm/) - Commercial Python IDE based on the IntelliJ platform by JetBrains. Free community edition available. always be usefyl for your self
