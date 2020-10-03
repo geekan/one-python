@@ -57,7 +57,7 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 
 #### Environment
 * [virtualenv](https://pypi.python.org/pypi/virtualenv) - A tool to create isolated Python environments.
-    * [virtualenvwrapper](https://pypi.python.org/pypi/virtualenvwrapper) - A set of extensions to virtualenv.
+    * [virtualenvwrapper](https://pypi.python.org/pypi/virtualenvwrapper) - A set of extensions to virtual environment.
 
 #### IDE
 * [PyCharm](https://www.jetbrains.com/pycharm/) - Commercial Python IDE based on the IntelliJ platform by JetBrains. Free community edition available.
