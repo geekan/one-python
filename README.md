@@ -25,26 +25,34 @@ We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We 
 #### Chinese Word Segmentation
 * [jieba](https://github.com/fxsjy/jieba) - Chinese Words Segmentation Utilities.
 
+<img src="https://pic2.zhimg.com/v2-8f3a1021d2a7a97e9083d2b632b5fd63_1440w.jpg?source=172ae18b" width=95%>
+
+
 #### Concurrency and Networking
 * [gevent](http://www.gevent.org/) - A coroutine-based Python networking library that uses [greenlet](https://github.com/python-greenlet/greenlet).
 
+<img src="https://web.stanford.edu/dept/cs_edu/cppdoc/images/GEventHierarchy.png" width=95%>
+
 #### HTTP Request
 * [requests](https://github.com/kennethreitz/requests) - Python HTTP requests for humans.
+
 <img src="https://matchingmania.com/uploads/posts/how-to-create-get-and-post-request-using-python-requests-module.jpg" width=100%>
 
 
 #### Web Crawling
 * [Scrapy](http://scrapy.org/) - A fast high-level screen scraping and web crawling framework.
-<!-- ![Scrapy]() -->
+
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--xYNk7vjX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/dpf1jzsiy8n1tmdfxn1v.jpg" width=100%>
 
 
 #### Web Content Extracting
 * [newspaper](https://github.com/codelucas/newspaper) - News extraction, article extraction and content curation in Python.
 
+<img src="https://www.edureka.co/blog/wp-content/uploads/2018/11/Untitled-1.jpg" width=100%>
+
 #### Scientific Computing
 * [scipy](https://github.com/scipy/scipy) - An open-source software for mathematics, science, and engineering. statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
-<!-- ![Scrapy]() -->
+
 <img src="https://www.fullstackpython.com/img/logos/scipy.png" width=100%>
 
 
